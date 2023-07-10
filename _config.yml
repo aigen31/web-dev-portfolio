@@ -11,7 +11,7 @@ description: >
 
 # Build settings
 
-# theme: minima
+theme: minima
 local_theme: minima
 
 plugins:
