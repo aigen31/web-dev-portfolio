@@ -12,14 +12,12 @@ description: >
 # Build settings
 
 # theme: null
-# local_theme: minima
 remote_theme: aigen31/minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-  # - jekyll-local-theme
 
 # Theme-specific settings
 
