@@ -11,7 +11,7 @@ description: >
 
 # Build settings
 
-theme: minima
+theme: null
 local_theme: minima
 
 plugins:
@@ -57,15 +57,5 @@ minima:
 # show_excerpts: false
 
 # domain: aigen31.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-# url: aigen31.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+url: aigen31.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /web-dev-portfolio      # place folder name if the site is served in a subfolder
-
-include:
-    - _site
-
-exclude: 
-  - .gitignore
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
