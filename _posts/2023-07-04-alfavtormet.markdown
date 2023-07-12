@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  'Блог "Альфа-втормет"'
+description: 'Вёрстка страниц и интеграция в CMS Worpdress'
 date:   2023-07-04 18:44:37 +0700
 categories: jekyll update
 thumbnail: /assets/img/portfolio/1.jpg
+image: /assets/img/portfolio/1.jpg
 ---
 Вёрстка страниц и интеграция в CMS Worpdress.
 

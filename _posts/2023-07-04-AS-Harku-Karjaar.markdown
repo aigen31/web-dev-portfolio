@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  'Сайт "AS Harku Karjaar"'
+description: 'Разработка сайта "AS Harku Karjaar"'
 date:   2023-07-04 18:44:37 +0700
 categories: jekyll update
 thumbnail: /assets/img/portfolio/4.jpg
+image: /assets/img/portfolio/4.jpg
 ---
 Целью работы был перенос сайта на новую тему Wordpress и доработка нового функционала. Была адаптирована форма заказа, изменён стиль под дизайн сайта
 

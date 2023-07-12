@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  'Лендинг "Lucky-Wheels"'
+description: 'Вёрстка лендинга для сайта'
 date:   2023-07-04 18:44:37 +0700
 categories: jekyll update
 thumbnail: /assets/img/portfolio/2.jpg
+image: /assets/img/portfolio/2.jpg
 ---
 Вёрстка лендинга для сайта
 

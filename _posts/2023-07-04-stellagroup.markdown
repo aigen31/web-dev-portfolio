@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  'Лендинг "Stella Group"'
+description: 'Лендинг с анимацией, написанной на технологии GSAP'
 date:   2023-07-04 18:44:37 +0700
 categories: jekyll update
 thumbnail: /assets/img/portfolio/3.jpg
+image: /assets/img/portfolio/3.jpg
 ---
 Лендинг с анимацией, написанной на технологии [GSAP](https://greensock.com/gsap/)
 
