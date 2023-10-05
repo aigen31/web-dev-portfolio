@@ -1,0 +1,15 @@
+---
+layout: post
+title:  'bolt37.ru'
+description: 'Разработка магазина'
+date:   2023-10-05 14:53:00 +0700
+categories: jekyll update
+thumbnail: /assets/img/portfolio/9.jpg
+image: /assets/img/portfolio/9.jpg
+---
+Разработка магазина на CMS Wordpress и Woocommerce.
+
+## Выполненные задачи:
+- Неподдерживаемые плагины и темы сайта не работали с PHP 8. Требовалось найти альтернативы и создать сайт, аналогичный старому
+
+<a href="https://petersburgtravel.com/" target="_blank">Ссылка на сайт</a>

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  'Лендинг "1win"'
+description: 'Лендинг, свёрстанный по дизайну'
+date:   2023-10-05 14:04:00 +0700
+categories: jekyll update
+thumbnail: /assets/img/portfolio/8.jpg
+image: /assets/img/portfolio/8.jpg
+---
+Лендинг, свёрстанный по дизайну
+
+## Выполненные задачи:
+- Функция копирования промокода
+- Оптимизация для Pagespeed Insights
+
+<a href="https://aigen31.github.io/1win/dist/" target="_blank">Ссылка на сайт</a>
