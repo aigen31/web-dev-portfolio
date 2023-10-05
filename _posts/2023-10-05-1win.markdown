@@ -4,8 +4,8 @@ title:  'Лендинг "1win"'
 description: 'Лендинг, свёрстанный по дизайну'
 date:   2023-10-05 14:04:00 +0700
 categories: jekyll update
-thumbnail: /assets/img/portfolio/8.jpg
-image: /assets/img/portfolio/8.jpg
+thumbnail: /assets/img/portfolio/8.png
+image: /assets/img/portfolio/8.png
 ---
 Лендинг, свёрстанный по дизайну
 

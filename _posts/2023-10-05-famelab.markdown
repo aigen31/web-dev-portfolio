@@ -4,8 +4,8 @@ title:  'famelab.pro'
 description: 'Оптимизация famelab.pro'
 date:   2023-10-05 14:11:00 +0700
 categories: jekyll update
-thumbnail: /assets/img/portfolio/10.jpg
-image: /assets/img/portfolio/10.jpg
+thumbnail: /assets/img/portfolio/10.png
+image: /assets/img/portfolio/10.png
 ---
 Оптимизация сайта famelab.pro по оценке Pagespeed Insights.
 

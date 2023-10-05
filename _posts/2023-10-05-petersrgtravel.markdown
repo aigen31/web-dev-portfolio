@@ -4,8 +4,8 @@ title:  'контроль-дез.рф'
 description: 'Вёрстка сайта без CMS'
 date:   2023-10-05 14:06:00 +0700
 categories: jekyll update
-thumbnail: /assets/img/portfolio/11.jpg
-image: /assets/img/portfolio/11.jpg
+thumbnail: /assets/img/portfolio/11.png
+image: /assets/img/portfolio/11.png
 ---
 Перенос сайта в CMS Worpdress на новую тему и версию PHP.
 
